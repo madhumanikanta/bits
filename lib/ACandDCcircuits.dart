@@ -17,8 +17,8 @@ class QuestionModel{
 List<QuestionModel> questions = [
   QuestionModel(question: "1. In which type of circuit does the current flow continuously in one direction?",
       options: [
-"a) AC circuit",
-"b) DC circuit",
+"a) AC circuits",
+"b) DC circuits",
 "c) Both AC and DC circuits",
 "d) Neither AC nor DC circuits",
       ],
