@@ -65,7 +65,7 @@ List<QuestionModel> questions = [
   ),
   QuestionModel(question: "6. Which component of a power transmission system is responsible for maintaining grid stability and frequency control?",
       options: [
-"a) Transformers
+"a) Transformers",
 "b) Generators",
 "c) Capacitors",
 "d) Synchronous condensers",
